@@ -1,1 +1,2 @@
-# ip-sorgu
+# İp Adres Sorgu
+kurulum: pip install requests
